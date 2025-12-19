@@ -1,0 +1,1906 @@
+{
+  "cars": [
+    {
+      "car_type": "SUV",
+      "car_age": 1,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Air Conditioning"
+      ],
+      "price": 15000
+    },
+    {
+      "car_type": "Sedan",
+      "car_age": 2,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Leather Seats"
+      ],
+      "price": 15250
+    },
+    {
+      "car_type": "Station Wagon",
+      "car_age": 3,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Cruise Control"
+      ],
+      "price": 15500
+    },
+    {
+      "car_type": "Compact Car",
+      "car_age": 4,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Bluetooth"
+      ],
+      "price": 15750
+    },
+    {
+      "car_type": "Coupe",
+      "car_age": 5,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Sports Suspension"
+      ],
+      "price": 16000
+    },
+    {
+      "car_type": "Van",
+      "car_age": 6,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "7 Seats"
+      ],
+      "price": 16250
+    },
+    {
+      "car_type": "Pickup",
+      "car_age": 7,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Loading Area"
+      ],
+      "price": 16500
+    },
+    {
+      "car_type": "Roadster",
+      "car_age": 8,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Convertible"
+      ],
+      "price": 16750
+    },
+    {
+      "car_type": "Hybrid",
+      "car_age": 9,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Start-Stop System"
+      ],
+      "price": 17000
+    },
+    {
+      "car_type": "Off-Roader",
+      "car_age": 10,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Skid Plate"
+      ],
+      "price": 17250
+    },
+    {
+      "car_type": "SUV",
+      "car_age": 11,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Air Conditioning"
+      ],
+      "price": 17500
+    },
+    {
+      "car_type": "Sedan",
+      "car_age": 12,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Leather Seats"
+      ],
+      "price": 17750
+    },
+    {
+      "car_type": "Station Wagon",
+      "car_age": 13,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Cruise Control"
+      ],
+      "price": 18000
+    },
+    {
+      "car_type": "Compact Car",
+      "car_age": 14,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Bluetooth"
+      ],
+      "price": 18250
+    },
+    {
+      "car_type": "Coupe",
+      "car_age": 15,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Sports Suspension"
+      ],
+      "price": 18500
+    },
+    {
+      "car_type": "Van",
+      "car_age": 1,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "7 Seats"
+      ],
+      "price": 18750
+    },
+    {
+      "car_type": "Pickup",
+      "car_age": 2,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Loading Area"
+      ],
+      "price": 19000
+    },
+    {
+      "car_type": "Roadster",
+      "car_age": 3,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Convertible"
+      ],
+      "price": 19250
+    },
+    {
+      "car_type": "Hybrid",
+      "car_age": 4,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Start-Stop System"
+      ],
+      "price": 19500
+    },
+    {
+      "car_type": "Off-Roader",
+      "car_age": 5,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Skid Plate"
+      ],
+      "price": 19750
+    },
+    {
+      "car_type": "SUV",
+      "car_age": 6,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Air Conditioning"
+      ],
+      "price": 20000
+    },
+    {
+      "car_type": "Sedan",
+      "car_age": 7,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Leather Seats"
+      ],
+      "price": 20250
+    },
+    {
+      "car_type": "Station Wagon",
+      "car_age": 8,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Cruise Control"
+      ],
+      "price": 20500
+    },
+    {
+      "car_type": "Compact Car",
+      "car_age": 9,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Bluetooth"
+      ],
+      "price": 20750
+    },
+    {
+      "car_type": "Coupe",
+      "car_age": 10,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Sports Suspension"
+      ],
+      "price": 21000
+    },
+    {
+      "car_type": "Van",
+      "car_age": 11,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "7 Seats"
+      ],
+      "price": 21250
+    },
+    {
+      "car_type": "Pickup",
+      "car_age": 12,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Loading Area"
+      ],
+      "price": 21500
+    },
+    {
+      "car_type": "Roadster",
+      "car_age": 13,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Convertible"
+      ],
+      "price": 21750
+    },
+    {
+      "car_type": "Hybrid",
+      "car_age": 14,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Start-Stop System"
+      ],
+      "price": 22000
+    },
+    {
+      "car_type": "Off-Roader",
+      "car_age": 15,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Skid Plate"
+      ],
+      "price": 22250
+    },
+    {
+      "car_type": "SUV",
+      "car_age": 1,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Air Conditioning"
+      ],
+      "price": 22500
+    },
+    {
+      "car_type": "Sedan",
+      "car_age": 2,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Leather Seats"
+      ],
+      "price": 22750
+    },
+    {
+      "car_type": "Station Wagon",
+      "car_age": 3,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Cruise Control"
+      ],
+      "price": 23000
+    },
+    {
+      "car_type": "Compact Car",
+      "car_age": 4,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Bluetooth"
+      ],
+      "price": 23250
+    },
+    {
+      "car_type": "Coupe",
+      "car_age": 5,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Sports Suspension"
+      ],
+      "price": 23500
+    },
+    {
+      "car_type": "Van",
+      "car_age": 6,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "7 Seats"
+      ],
+      "price": 23750
+    },
+    {
+      "car_type": "Pickup",
+      "car_age": 7,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Loading Area"
+      ],
+      "price": 24000
+    },
+    {
+      "car_type": "Roadster",
+      "car_age": 8,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Convertible"
+      ],
+      "price": 24250
+    },
+    {
+      "car_type": "Hybrid",
+      "car_age": 9,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Start-Stop System"
+      ],
+      "price": 24500
+    },
+    {
+      "car_type": "Off-Roader",
+      "car_age": 10,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Skid Plate"
+      ],
+      "price": 24750
+    },
+    {
+      "car_type": "SUV",
+      "car_age": 11,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Air Conditioning"
+      ],
+      "price": 25000
+    },
+    {
+      "car_type": "Sedan",
+      "car_age": 12,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Leather Seats"
+      ],
+      "price": 25250
+    },
+    {
+      "car_type": "Station Wagon",
+      "car_age": 13,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Cruise Control"
+      ],
+      "price": 25500
+    },
+    {
+      "car_type": "Compact Car",
+      "car_age": 14,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Bluetooth"
+      ],
+      "price": 25750
+    },
+    {
+      "car_type": "Coupe",
+      "car_age": 15,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Sports Suspension"
+      ],
+      "price": 26000
+    },
+    {
+      "car_type": "Van",
+      "car_age": 1,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "7 Seats"
+      ],
+      "price": 26250
+    },
+    {
+      "car_type": "Pickup",
+      "car_age": 2,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Loading Area"
+      ],
+      "price": 26500
+    },
+    {
+      "car_type": "Roadster",
+      "car_age": 3,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Convertible"
+      ],
+      "price": 26750
+    },
+    {
+      "car_type": "Hybrid",
+      "car_age": 4,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Start-Stop System"
+      ],
+      "price": 27000
+    },
+    {
+      "car_type": "Off-Roader",
+      "car_age": 5,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Skid Plate"
+      ],
+      "price": 27250
+    },
+    {
+      "car_type": "SUV",
+      "car_age": 6,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Air Conditioning"
+      ],
+      "price": 27500
+    },
+    {
+      "car_type": "Sedan",
+      "car_age": 7,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Leather Seats"
+      ],
+      "price": 27750
+    },
+    {
+      "car_type": "Station Wagon",
+      "car_age": 8,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Cruise Control"
+      ],
+      "price": 28000
+    },
+    {
+      "car_type": "Compact Car",
+      "car_age": 9,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Bluetooth"
+      ],
+      "price": 28250
+    },
+    {
+      "car_type": "Coupe",
+      "car_age": 10,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Sports Suspension"
+      ],
+      "price": 28500
+    },
+    {
+      "car_type": "Van",
+      "car_age": 11,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "7 Seats"
+      ],
+      "price": 28750
+    },
+    {
+      "car_type": "Pickup",
+      "car_age": 12,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Loading Area"
+      ],
+      "price": 29000
+    },
+    {
+      "car_type": "Roadster",
+      "car_age": 13,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Convertible"
+      ],
+      "price": 29250
+    },
+    {
+      "car_type": "Hybrid",
+      "car_age": 14,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Start-Stop System"
+      ],
+      "price": 29500
+    },
+    {
+      "car_type": "Off-Roader",
+      "car_age": 15,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Skid Plate"
+      ],
+      "price": 29750
+    },
+    {
+      "car_type": "SUV",
+      "car_age": 1,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Air Conditioning"
+      ],
+      "price": 30000
+    },
+    {
+      "car_type": "Sedan",
+      "car_age": 2,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Leather Seats"
+      ],
+      "price": 30250
+    },
+    {
+      "car_type": "Station Wagon",
+      "car_age": 3,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Cruise Control"
+      ],
+      "price": 30500
+    },
+    {
+      "car_type": "Compact Car",
+      "car_age": 4,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Bluetooth"
+      ],
+      "price": 30750
+    },
+    {
+      "car_type": "Coupe",
+      "car_age": 5,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Sports Suspension"
+      ],
+      "price": 31000
+    },
+    {
+      "car_type": "Van",
+      "car_age": 6,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "7 Seats"
+      ],
+      "price": 31250
+    },
+    {
+      "car_type": "Pickup",
+      "car_age": 7,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Loading Area"
+      ],
+      "price": 31500
+    },
+    {
+      "car_type": "Roadster",
+      "car_age": 8,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Convertible"
+      ],
+      "price": 31750
+    },
+    {
+      "car_type": "Hybrid",
+      "car_age": 9,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Start-Stop System"
+      ],
+      "price": 32000
+    },
+    {
+      "car_type": "Off-Roader",
+      "car_age": 10,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Skid Plate"
+      ],
+      "price": 32250
+    },
+    {
+      "car_type": "SUV",
+      "car_age": 11,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Air Conditioning"
+      ],
+      "price": 32500
+    },
+    {
+      "car_type": "Sedan",
+      "car_age": 12,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Leather Seats"
+      ],
+      "price": 32750
+    },
+    {
+      "car_type": "Station Wagon",
+      "car_age": 13,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Cruise Control"
+      ],
+      "price": 33000
+    },
+    {
+      "car_type": "Compact Car",
+      "car_age": 14,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Bluetooth"
+      ],
+      "price": 33250
+    },
+    {
+      "car_type": "Coupe",
+      "car_age": 15,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Sports Suspension"
+      ],
+      "price": 33500
+    },
+    {
+      "car_type": "Van",
+      "car_age": 1,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "7 Seats"
+      ],
+      "price": 33750
+    },
+    {
+      "car_type": "Pickup",
+      "car_age": 2,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Loading Area"
+      ],
+      "price": 34000
+    },
+    {
+      "car_type": "Roadster",
+      "car_age": 3,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Convertible"
+      ],
+      "price": 34250
+    },
+    {
+      "car_type": "Hybrid",
+      "car_age": 4,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Start-Stop System"
+      ],
+      "price": 34500
+    },
+    {
+      "car_type": "Off-Roader",
+      "car_age": 5,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Skid Plate"
+      ],
+      "price": 34750
+    },
+    {
+      "car_type": "SUV",
+      "car_age": 6,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Air Conditioning"
+      ],
+      "price": 35000
+    },
+    {
+      "car_type": "Sedan",
+      "car_age": 7,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Leather Seats"
+      ],
+      "price": 35250
+    },
+    {
+      "car_type": "Station Wagon",
+      "car_age": 8,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Cruise Control"
+      ],
+      "price": 35500
+    },
+    {
+      "car_type": "Compact Car",
+      "car_age": 9,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Bluetooth"
+      ],
+      "price": 35750
+    },
+    {
+      "car_type": "Coupe",
+      "car_age": 10,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Sports Suspension"
+      ],
+      "price": 36000
+    },
+    {
+      "car_type": "Van",
+      "car_age": 11,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "7 Seats"
+      ],
+      "price": 36250
+    },
+    {
+      "car_type": "Pickup",
+      "car_age": 12,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Loading Area"
+      ],
+      "price": 36500
+    },
+    {
+      "car_type": "Roadster",
+      "car_age": 13,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Convertible"
+      ],
+      "price": 36750
+    },
+    {
+      "car_type": "Hybrid",
+      "car_age": 14,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Start-Stop System"
+      ],
+      "price": 37000
+    },
+    {
+      "car_type": "Off-Roader",
+      "car_age": 15,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Skid Plate"
+      ],
+      "price": 37250
+    },
+    {
+      "car_type": "SUV",
+      "car_age": 1,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Air Conditioning"
+      ],
+      "price": 37500
+    },
+    {
+      "car_type": "Sedan",
+      "car_age": 2,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Leather Seats"
+      ],
+      "price": 37750
+    },
+    {
+      "car_type": "Station Wagon",
+      "car_age": 3,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Cruise Control"
+      ],
+      "price": 38000
+    },
+    {
+      "car_type": "Compact Car",
+      "car_age": 4,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Bluetooth"
+      ],
+      "price": 38250
+    },
+    {
+      "car_type": "Coupe",
+      "car_age": 5,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Sports Suspension"
+      ],
+      "price": 38500
+    },
+    {
+      "car_type": "Van",
+      "car_age": 6,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "7 Seats"
+      ],
+      "price": 38750
+    },
+    {
+      "car_type": "Pickup",
+      "car_age": 7,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Diesel",
+      "car_attributes": [
+        "Loading Area"
+      ],
+      "price": 39000
+    },
+    {
+      "car_type": "Roadster",
+      "car_age": 8,
+      "drive_type": "Front-Wheel Drive",
+      "fuel": "Petrol",
+      "car_attributes": [
+        "Convertible"
+      ],
+      "price": 39250
+    },
+    {
+      "car_type": "Hybrid",
+      "car_age": 9,
+      "drive_type": "Rear-Wheel Drive",
+      "fuel": "Hybrid",
+      "car_attributes": [
+        "Start-Stop System"
+      ],
+      "price": 39500
+    },
+    {
+      "car_type": "Off-Roader",
+      "car_age": 10,
+      "drive_type": "All-Wheel Drive",
+      "fuel": "Electric",
+      "car_attributes": [
+        "Skid Plate"
+      ],
+      "price": 39750
+    }
+  ],
+  "motorcycles": [
+    {
+      "motorcycle_type": "Sport",
+      "motorcycle_age": 1,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "ABS"
+      ],
+      "price": 5000
+    },
+    {
+      "motorcycle_type": "Naked Bike",
+      "motorcycle_age": 2,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Traction Control"
+      ],
+      "price": 5150
+    },
+    {
+      "motorcycle_type": "Tourer",
+      "motorcycle_age": 3,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Luggage"
+      ],
+      "price": 5300
+    },
+    {
+      "motorcycle_type": "Chopper",
+      "motorcycle_age": 4,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Chrome"
+      ],
+      "price": 5450
+    },
+    {
+      "motorcycle_type": "Enduro",
+      "motorcycle_age": 5,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Off-Road Tires"
+      ],
+      "price": 5600
+    },
+    {
+      "motorcycle_type": "Motocross",
+      "motorcycle_age": 6,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Lightweight"
+      ],
+      "price": 5750
+    },
+    {
+      "motorcycle_type": "Scooter",
+      "motorcycle_age": 7,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Storage"
+      ],
+      "price": 5900
+    },
+    {
+      "motorcycle_type": "Cafe Racer",
+      "motorcycle_age": 8,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Retro Design"
+      ],
+      "price": 6050
+    },
+    {
+      "motorcycle_type": "Supermoto",
+      "motorcycle_age": 9,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Street Tires"
+      ],
+      "price": 6200
+    },
+    {
+      "motorcycle_type": "Electric Motorcycle",
+      "motorcycle_age": 10,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Fast Charging"
+      ],
+      "price": 6350
+    },
+    {
+      "motorcycle_type": "Sport",
+      "motorcycle_age": 1,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "ABS"
+      ],
+      "price": 6500
+    },
+    {
+      "motorcycle_type": "Naked Bike",
+      "motorcycle_age": 2,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Traction Control"
+      ],
+      "price": 6650
+    },
+    {
+      "motorcycle_type": "Tourer",
+      "motorcycle_age": 3,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Luggage"
+      ],
+      "price": 6800
+    },
+    {
+      "motorcycle_type": "Chopper",
+      "motorcycle_age": 4,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Chrome"
+      ],
+      "price": 6950
+    },
+    {
+      "motorcycle_type": "Enduro",
+      "motorcycle_age": 5,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Off-Road Tires"
+      ],
+      "price": 7100
+    },
+    {
+      "motorcycle_type": "Motocross",
+      "motorcycle_age": 6,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Lightweight"
+      ],
+      "price": 7250
+    },
+    {
+      "motorcycle_type": "Scooter",
+      "motorcycle_age": 7,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Storage"
+      ],
+      "price": 7400
+    },
+    {
+      "motorcycle_type": "Cafe Racer",
+      "motorcycle_age": 8,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Retro Design"
+      ],
+      "price": 7550
+    },
+    {
+      "motorcycle_type": "Supermoto",
+      "motorcycle_age": 9,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Street Tires"
+      ],
+      "price": 7700
+    },
+    {
+      "motorcycle_type": "Electric Motorcycle",
+      "motorcycle_age": 10,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Fast Charging"
+      ],
+      "price": 7850
+    },
+    {
+      "motorcycle_type": "Sport",
+      "motorcycle_age": 1,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "ABS"
+      ],
+      "price": 8000
+    },
+    {
+      "motorcycle_type": "Naked Bike",
+      "motorcycle_age": 2,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Traction Control"
+      ],
+      "price": 8150
+    },
+    {
+      "motorcycle_type": "Tourer",
+      "motorcycle_age": 3,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Luggage"
+      ],
+      "price": 8300
+    },
+    {
+      "motorcycle_type": "Chopper",
+      "motorcycle_age": 4,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Chrome"
+      ],
+      "price": 8450
+    },
+    {
+      "motorcycle_type": "Enduro",
+      "motorcycle_age": 5,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Off-Road Tires"
+      ],
+      "price": 8600
+    },
+    {
+      "motorcycle_type": "Motocross",
+      "motorcycle_age": 6,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Lightweight"
+      ],
+      "price": 8750
+    },
+    {
+      "motorcycle_type": "Scooter",
+      "motorcycle_age": 7,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Storage"
+      ],
+      "price": 8900
+    },
+    {
+      "motorcycle_type": "Cafe Racer",
+      "motorcycle_age": 8,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Retro Design"
+      ],
+      "price": 9050
+    },
+    {
+      "motorcycle_type": "Supermoto",
+      "motorcycle_age": 9,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Street Tires"
+      ],
+      "price": 9200
+    },
+    {
+      "motorcycle_type": "Electric Motorcycle",
+      "motorcycle_age": 10,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Fast Charging"
+      ],
+      "price": 9350
+    },
+    {
+      "motorcycle_type": "Sport",
+      "motorcycle_age": 1,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "ABS"
+      ],
+      "price": 9500
+    },
+    {
+      "motorcycle_type": "Naked Bike",
+      "motorcycle_age": 2,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Traction Control"
+      ],
+      "price": 9650
+    },
+    {
+      "motorcycle_type": "Tourer",
+      "motorcycle_age": 3,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Luggage"
+      ],
+      "price": 9800
+    },
+    {
+      "motorcycle_type": "Chopper",
+      "motorcycle_age": 4,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Chrome"
+      ],
+      "price": 9950
+    },
+    {
+      "motorcycle_type": "Enduro",
+      "motorcycle_age": 5,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Off-Road Tires"
+      ],
+      "price": 10100
+    },
+    {
+      "motorcycle_type": "Motocross",
+      "motorcycle_age": 6,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Lightweight"
+      ],
+      "price": 10250
+    },
+    {
+      "motorcycle_type": "Scooter",
+      "motorcycle_age": 7,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Storage"
+      ],
+      "price": 10400
+    },
+    {
+      "motorcycle_type": "Cafe Racer",
+      "motorcycle_age": 8,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Retro Design"
+      ],
+      "price": 10550
+    },
+    {
+      "motorcycle_type": "Supermoto",
+      "motorcycle_age": 9,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Street Tires"
+      ],
+      "price": 10700
+    },
+    {
+      "motorcycle_type": "Electric Motorcycle",
+      "motorcycle_age": 10,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Fast Charging"
+      ],
+      "price": 10850
+    },
+    {
+      "motorcycle_type": "Sport",
+      "motorcycle_age": 1,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "ABS"
+      ],
+      "price": 11000
+    },
+    {
+      "motorcycle_type": "Naked Bike",
+      "motorcycle_age": 2,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Traction Control"
+      ],
+      "price": 11150
+    },
+    {
+      "motorcycle_type": "Tourer",
+      "motorcycle_age": 3,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Luggage"
+      ],
+      "price": 11300
+    },
+    {
+      "motorcycle_type": "Chopper",
+      "motorcycle_age": 4,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Chrome"
+      ],
+      "price": 11450
+    },
+    {
+      "motorcycle_type": "Enduro",
+      "motorcycle_age": 5,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Off-Road Tires"
+      ],
+      "price": 11600
+    },
+    {
+      "motorcycle_type": "Motocross",
+      "motorcycle_age": 6,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Lightweight"
+      ],
+      "price": 11750
+    },
+    {
+      "motorcycle_type": "Scooter",
+      "motorcycle_age": 7,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Storage"
+      ],
+      "price": 11900
+    },
+    {
+      "motorcycle_type": "Cafe Racer",
+      "motorcycle_age": 8,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Retro Design"
+      ],
+      "price": 12050
+    },
+    {
+      "motorcycle_type": "Supermoto",
+      "motorcycle_age": 9,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Street Tires"
+      ],
+      "price": 12200
+    },
+    {
+      "motorcycle_type": "Electric Motorcycle",
+      "motorcycle_age": 10,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Fast Charging"
+      ],
+      "price": 12350
+    },
+    {
+      "motorcycle_type": "Sport",
+      "motorcycle_age": 1,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "ABS"
+      ],
+      "price": 12500
+    },
+    {
+      "motorcycle_type": "Naked Bike",
+      "motorcycle_age": 2,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Traction Control"
+      ],
+      "price": 12650
+    },
+    {
+      "motorcycle_type": "Tourer",
+      "motorcycle_age": 3,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Luggage"
+      ],
+      "price": 12800
+    },
+    {
+      "motorcycle_type": "Chopper",
+      "motorcycle_age": 4,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Chrome"
+      ],
+      "price": 12950
+    },
+    {
+      "motorcycle_type": "Enduro",
+      "motorcycle_age": 5,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Off-Road Tires"
+      ],
+      "price": 13100
+    },
+    {
+      "motorcycle_type": "Motocross",
+      "motorcycle_age": 6,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Lightweight"
+      ],
+      "price": 13250
+    },
+    {
+      "motorcycle_type": "Scooter",
+      "motorcycle_age": 7,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Storage"
+      ],
+      "price": 13400
+    },
+    {
+      "motorcycle_type": "Cafe Racer",
+      "motorcycle_age": 8,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Retro Design"
+      ],
+      "price": 13550
+    },
+    {
+      "motorcycle_type": "Supermoto",
+      "motorcycle_age": 9,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Street Tires"
+      ],
+      "price": 13700
+    },
+    {
+      "motorcycle_type": "Electric Motorcycle",
+      "motorcycle_age": 10,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Fast Charging"
+      ],
+      "price": 13850
+    },
+    {
+      "motorcycle_type": "Sport",
+      "motorcycle_age": 1,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "ABS"
+      ],
+      "price": 14000
+    },
+    {
+      "motorcycle_type": "Naked Bike",
+      "motorcycle_age": 2,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Traction Control"
+      ],
+      "price": 14150
+    },
+    {
+      "motorcycle_type": "Tourer",
+      "motorcycle_age": 3,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Luggage"
+      ],
+      "price": 14300
+    },
+    {
+      "motorcycle_type": "Chopper",
+      "motorcycle_age": 4,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Chrome"
+      ],
+      "price": 14450
+    },
+    {
+      "motorcycle_type": "Enduro",
+      "motorcycle_age": 5,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Off-Road Tires"
+      ],
+      "price": 14600
+    },
+    {
+      "motorcycle_type": "Motocross",
+      "motorcycle_age": 6,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Lightweight"
+      ],
+      "price": 14750
+    },
+    {
+      "motorcycle_type": "Scooter",
+      "motorcycle_age": 7,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Storage"
+      ],
+      "price": 14900
+    },
+    {
+      "motorcycle_type": "Cafe Racer",
+      "motorcycle_age": 8,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Retro Design"
+      ],
+      "price": 15050
+    },
+    {
+      "motorcycle_type": "Supermoto",
+      "motorcycle_age": 9,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Street Tires"
+      ],
+      "price": 15200
+    },
+    {
+      "motorcycle_type": "Electric Motorcycle",
+      "motorcycle_age": 10,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Fast Charging"
+      ],
+      "price": 15350
+    },
+    {
+      "motorcycle_type": "Sport",
+      "motorcycle_age": 1,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "ABS"
+      ],
+      "price": 15500
+    },
+    {
+      "motorcycle_type": "Naked Bike",
+      "motorcycle_age": 2,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Traction Control"
+      ],
+      "price": 15650
+    },
+    {
+      "motorcycle_type": "Tourer",
+      "motorcycle_age": 3,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Luggage"
+      ],
+      "price": 15800
+    },
+    {
+      "motorcycle_type": "Chopper",
+      "motorcycle_age": 4,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Chrome"
+      ],
+      "price": 15950
+    },
+    {
+      "motorcycle_type": "Enduro",
+      "motorcycle_age": 5,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Off-Road Tires"
+      ],
+      "price": 16100
+    },
+    {
+      "motorcycle_type": "Motocross",
+      "motorcycle_age": 6,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Lightweight"
+      ],
+      "price": 16250
+    },
+    {
+      "motorcycle_type": "Scooter",
+      "motorcycle_age": 7,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Storage"
+      ],
+      "price": 16400
+    },
+    {
+      "motorcycle_type": "Cafe Racer",
+      "motorcycle_age": 8,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Retro Design"
+      ],
+      "price": 16550
+    },
+    {
+      "motorcycle_type": "Supermoto",
+      "motorcycle_age": 9,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Street Tires"
+      ],
+      "price": 16700
+    },
+    {
+      "motorcycle_type": "Electric Motorcycle",
+      "motorcycle_age": 10,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Fast Charging"
+      ],
+      "price": 16850
+    },
+    {
+      "motorcycle_type": "Sport",
+      "motorcycle_age": 1,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "ABS"
+      ],
+      "price": 17000
+    },
+    {
+      "motorcycle_type": "Naked Bike",
+      "motorcycle_age": 2,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Traction Control"
+      ],
+      "price": 17150
+    },
+    {
+      "motorcycle_type": "Tourer",
+      "motorcycle_age": 3,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Luggage"
+      ],
+      "price": 17300
+    },
+    {
+      "motorcycle_type": "Chopper",
+      "motorcycle_age": 4,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Chrome"
+      ],
+      "price": 17450
+    },
+    {
+      "motorcycle_type": "Enduro",
+      "motorcycle_age": 5,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Off-Road Tires"
+      ],
+      "price": 17600
+    },
+    {
+      "motorcycle_type": "Motocross",
+      "motorcycle_age": 6,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Lightweight"
+      ],
+      "price": 17750
+    },
+    {
+      "motorcycle_type": "Scooter",
+      "motorcycle_age": 7,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Storage"
+      ],
+      "price": 17900
+    },
+    {
+      "motorcycle_type": "Cafe Racer",
+      "motorcycle_age": 8,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Retro Design"
+      ],
+      "price": 18050
+    },
+    {
+      "motorcycle_type": "Supermoto",
+      "motorcycle_age": 9,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Street Tires"
+      ],
+      "price": 18200
+    },
+    {
+      "motorcycle_type": "Electric Motorcycle",
+      "motorcycle_age": 10,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Fast Charging"
+      ],
+      "price": 18350
+    },
+    {
+      "motorcycle_type": "Sport",
+      "motorcycle_age": 1,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "ABS"
+      ],
+      "price": 18500
+    },
+    {
+      "motorcycle_type": "Naked Bike",
+      "motorcycle_age": 2,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Traction Control"
+      ],
+      "price": 18650
+    },
+    {
+      "motorcycle_type": "Tourer",
+      "motorcycle_age": 3,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Luggage"
+      ],
+      "price": 18800
+    },
+    {
+      "motorcycle_type": "Chopper",
+      "motorcycle_age": 4,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Chrome"
+      ],
+      "price": 18950
+    },
+    {
+      "motorcycle_type": "Enduro",
+      "motorcycle_age": 5,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Off-Road Tires"
+      ],
+      "price": 19100
+    },
+    {
+      "motorcycle_type": "Motocross",
+      "motorcycle_age": 6,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Lightweight"
+      ],
+      "price": 19250
+    },
+    {
+      "motorcycle_type": "Scooter",
+      "motorcycle_age": 7,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Storage"
+      ],
+      "price": 19400
+    },
+    {
+      "motorcycle_type": "Cafe Racer",
+      "motorcycle_age": 8,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Retro Design"
+      ],
+      "price": 19550
+    },
+    {
+      "motorcycle_type": "Supermoto",
+      "motorcycle_age": 9,
+      "fuel": "Petrol",
+      "motorcycle_attributes": [
+        "Street Tires"
+      ],
+      "price": 19700
+    },
+    {
+      "motorcycle_type": "Electric Motorcycle",
+      "motorcycle_age": 10,
+      "fuel": "Electric",
+      "motorcycle_attributes": [
+        "Fast Charging"
+      ],
+      "price": 19850
+    }
+  ]
+}
